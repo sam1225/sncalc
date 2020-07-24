@@ -1,1 +1,1 @@
-# sncalc
+# Subnet Calculator
